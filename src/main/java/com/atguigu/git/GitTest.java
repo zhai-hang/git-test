@@ -6,8 +6,8 @@ public class GitTest {
         System.out.println("hello");
     }
 
-    public static void Byebye(){
-        System.out.println("byebye")
+    public static void Bye(){
+        System.out.println("bye bye Git");
     }
 
     public static void main(String[] args) {
@@ -18,6 +18,6 @@ public class GitTest {
         System.out.println("push test!");
 
         Hello();
-        Byebye();
+        Bye();
     }
 }
