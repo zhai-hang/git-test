@@ -2,7 +2,7 @@ package com.atguigu.git;
 
 public class GitTest {
 
-    public void Hello(){
+    public static void Hello(){
         System.out.println("hello");
     }
 
@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("hello git3!");
         System.out.println("master test!");
 
+        Hello();
     }
 }
