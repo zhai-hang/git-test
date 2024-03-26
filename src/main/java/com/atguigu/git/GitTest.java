@@ -6,6 +6,10 @@ public class GitTest {
         System.out.println("hello");
     }
 
+    public static void Byebye(){
+        System.out.println("byebye")
+    }
+
     public static void main(String[] args) {
         System.out.println("hello git!");
         System.out.println("hello git2!");
@@ -14,5 +18,6 @@ public class GitTest {
         System.out.println("push test!");
 
         Hello();
+        Byebye();
     }
 }
